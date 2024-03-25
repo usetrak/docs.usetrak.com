@@ -61,7 +61,7 @@ The CLI will guide you anyway through what you should and must do with messages 
 ### Basic commands
 
 To start using you can use those basic commands.
-They will create a project, run a session, get how is going, stop the session.
+They will create a project, run a session, get how is going, and stop the session.
 
 ```bash
 # Create a project
