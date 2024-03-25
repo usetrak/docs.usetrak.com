@@ -35,6 +35,10 @@ pipx install trakcli
 
 TBA
 
+### Nix
+
+`nix run github:lcfd/trak`
+
 ### Try the code locally
 
 If you want to try the latest unpublished changes you can install locally the code in the repository by using `Poetry` and `pipx`.
