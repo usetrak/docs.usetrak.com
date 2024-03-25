@@ -77,13 +77,22 @@ trak status
 trak stop
 ```
 
-Start tracking a billable project:
+#### Start a billable session for a project
 
 `trak start pasta -b`
 
-Start tracking a project on a specific category/topic:
+More on this:
+
+- [Billable](/reference/billable/)
+- [How to start a billable session](/guides/how-to-start-a-billable-session/)
+
+#### Start a session for a project with a specific category
 
 `trak start pasta -c rigatoni`
+
+More on this:
+
+- [Category](/reference/category/)
 
 ### But there is a lot more than that
 
